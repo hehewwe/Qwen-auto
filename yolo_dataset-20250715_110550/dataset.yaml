@@ -1,0 +1,8 @@
+# YOLO数据集配置
+path: D:\hyj_python\hyj_projiect\Qwen-auto\yolo_dataset-20250715_110550  # 数据集根目录
+train: images/train  # 训练图像相对路径
+val: images/val  # 验证图像相对路径
+
+# 类别
+nc: 5  # 类别数量
+names: ['sw', 'by', 'tw', 'wh', 'qt']  # 类别名称

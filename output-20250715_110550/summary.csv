@@ -1,0 +1,147 @@
+image_filename,image_source,overall_producing,personnel_count,dataset,raw_response
+Recording 2025-07-11 154109_frame_0000.jpg,Recording 2025-07-11 154109,是,2,验证集,"{
+  ""overall_producing"": ""是"",
+  ""producing_personnel"": [
+    {
+      ""id"": 1,
+      ""label"": ""tw"",
+      ""description"": ""正在渔排上进行投喂活动，手持工具向水中投放饲料。"",
+      ""bounding_box"": [520, 310, 546, 378]
+    },
+    {
+      ""id"": 2,
+      ""label"": ""tw"",
+      ""description"": ""同样在渔排上进行投喂活动，与另一人协作完成投喂工作。"",
+      ""bounding_box"": [540, 310, 565, 378]
+    }
+  ]
+}"
+Recording 2025-07-11 154109_frame_0001.jpg,Recording 2025-07-11 154109,是,2,验证集,"{
+  ""overall_producing"": ""是"",
+  ""producing_personnel"": [
+    {
+      ""id"": 1,
+      ""label"": ""sw"",
+      ""description"": ""正在用力向水中撒网。"",
+      ""bounding_box"": [759, 386, 804, 442]
+    },
+    {
+      ""id"": 2,
+      ""label"": ""by"",
+      ""description"": ""正在搬运渔具或相关设备。"",
+      ""bounding_box"": [762, 435, 804, 530]
+    }
+  ]
+}"
+Recording 2025-07-11 154109_frame_0002.jpg,Recording 2025-07-11 154109,是,2,训练集,"{
+  ""overall_producing"": ""是"",
+  ""producing_personnel"": [
+    {
+      ""id"": 1,
+      ""label"": ""tw"",
+      ""description"": ""正在提拉渔网，准备进行捕捞。"",
+      ""bounding_box"": [420, 278, 615, 663]
+    },
+    {
+      ""id"": 2,
+      ""label"": ""tw"",
+      ""description"": ""正在协助操作渔网，参与捕捞活动。"",
+      ""bounding_box"": [659, 313, 859, 715]
+    }
+  ]
+}"
+Recording 2025-07-11 154109_frame_0003.jpg,Recording 2025-07-11 154109,是,2,训练集,"{
+  ""overall_producing"": ""是"",
+  ""producing_personnel"": [
+    {
+      ""id"": 1,
+      ""label"": ""tw"",
+      ""description"": ""正在弯腰从桶中取出鱼进行检查。"",
+      ""bounding_box"": [435, 298, 630, 728]
+    },
+    {
+      ""id"": 2,
+      ""label"": ""tw"",
+      ""description"": ""正在弯腰协助处理桶中的鱼。"",
+      ""bounding_box"": [584, 343, 827, 657]
+    }
+  ]
+}"
+Recording 2025-07-11 154109_frame_0004.jpg,Recording 2025-07-11 154109,是,2,训练集,"{
+  ""overall_producing"": ""是"",
+  ""producing_personnel"": [
+    {
+      ""id"": 1,
+      ""label"": ""tw"",
+      ""description"": ""正在弯腰从桶中取出或放入物品，可能是在进行鱼类的搬运。"",
+      ""bounding_box"": [328, 364, 620, 725]
+    },
+    {
+      ""id"": 2,
+      ""label"": ""sw"",
+      ""description"": ""正手持渔网状工具，似乎在检查或操作渔具。"",
+      ""bounding_box"": [598, 234, 866, 725]
+    }
+  ]
+}"
+Recording 2025-07-11 154109_frame_0005.jpg,Recording 2025-07-11 154109,是,1,训练集,"{
+  ""overall_producing"": ""是"",
+  ""producing_personnel"": [
+    {
+      ""id"": 1,
+      ""label"": ""tw"",
+      ""description"": ""此人正在弯腰操作渔排上的设备或工具，可能在进行维护工作。"",
+      ""bounding_box"": [338, 379, 685, 709]
+    }
+  ]
+}"
+Recording 2025-07-11 154109_frame_0006.jpg,Recording 2025-07-11 154109,是,1,训练集,"{
+  ""overall_producing"": ""是"",
+  ""producing_personnel"": [
+    {
+      ""id"": 1,
+      ""label"": ""tw"",
+      ""description"": ""此人正在弯腰操作渔具，可能是在整理或检查渔网。"",
+      ""bounding_box"": [325, 394, 698, 728]
+    }
+  ]
+}"
+Recording 2025-07-11 154109_frame_0007.jpg,Recording 2025-07-11 154109,是,1,训练集,"{
+  ""overall_producing"": ""是"",
+  ""producing_personnel"": [
+    {
+      ""id"": 1,
+      ""label"": ""tw"",
+      ""description"": ""正在弯腰操作渔具，可能是在进行维护或检查。"",
+      ""bounding_box"": [375, 340, 726, 728]
+    }
+  ]
+}"
+Recording 2025-07-11 154109_frame_0008.jpg,Recording 2025-07-11 154109,是,1,训练集,"{
+  ""overall_producing"": ""是"",
+  ""producing_personnel"": [
+    {
+      ""id"": 1,
+      ""label"": ""tw"",
+      ""description"": ""此人正在弯腰操作渔排上的设备，可能是在进行维护或检查。"",
+      ""bounding_box"": [520, 438, 847, 728]
+    }
+  ]
+}"
+Recording 2025-07-11 154109_frame_0009.jpg,Recording 2025-07-11 154109,是,2,训练集,"{
+  ""overall_producing"": ""是"",
+  ""producing_personnel"": [
+    {
+      ""id"": 1,
+      ""label"": ""tw"",
+      ""description"": ""正在弯腰操作渔具，可能是在整理或检查渔网。"",
+      ""bounding_box"": [452, 319, 780, 625]
+    },
+    {
+      ""id"": 2,
+      ""label"": ""by"",
+      ""description"": ""正用手搬运或调整渔排上的设备或物品。"",
+      ""bounding_box"": [498, 414, 780, 728]
+    }
+  ]
+}"

@@ -1,0 +1,42 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "tw",
+            "points": [
+                [
+                    520,
+                    310
+                ],
+                [
+                    546,
+                    378
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tw",
+            "points": [
+                [
+                    540,
+                    310
+                ],
+                [
+                    565,
+                    378
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "Recording 2025-07-11 154109_frame_0000.jpg",
+    "imageData": null,
+    "imageHeight": 720,
+    "imageWidth": 1280
+}
